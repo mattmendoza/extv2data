@@ -1,0 +1,19 @@
+Path: /HepData/8404/d4-x1-y1
+The Fourier coefficients V2(2PC,sub) extracted for (anti)protons as a function of PT from the correlation in  the 0-20% multiplicity class after subraction of the correlation from the 60-100% event class
+Location: F 4
+ABS(ETARAP(RF=LAB)) : < 0.8
+Muliplicity Class IN pct : 0 TO 20 - 60 TO 100
+RE : P PB --> ( P + PBAR ) X
+SQRT(S)/NUCLEON : 5020.0 GeV
+x: PT IN GEV
+y : V(2PC,SUB)
+x	xlow	xhigh	y	dy+	dy-	dy+	dy-	
+0.626612	0.5	0.75	0.025438	+0.008749	-0.008749	+0.002951	-0.002951
+0.87287	0.75	1.0	0.025155	+0.007417	-0.007417	+0.002616	-0.002616
+1.120787	1.0	1.25	0.033972	+0.007809	-0.007809	+0.003329	-0.003329
+1.369555	1.25	1.5	0.055772	+0.00909	-0.00909	+0.005466	-0.005466
+1.724312	1.5	2.0	0.090101	+0.006607	-0.006607	+0.00883	-0.00883
+2.221503	2.0	2.5	0.146235	+0.012605	-0.012605	+0.014039	-0.014039
+2.720018	2.5	3.0	0.157674	+0.033017	-0.033017	+0.015137	-0.015137
+3.378732	3.0	4.0	0.172398	+0.047988	-0.047988	+0.01655	-0.01655
+

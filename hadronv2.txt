@@ -1,0 +1,21 @@
+Path: /HepData/8404/d1-x1-y1
+The Fourier coefficients V2(2PC,sub) extracted for all charged particles as a function of PT from the correlation in  the 0-20% multiplicity class after subraction of the correlation from the 60-100% event class
+Location: F 4
+ABS(ETARAP(RF=LAB)) : < 0.8
+Muliplicity Class IN pct : 0 TO 20 - 60 TO 100
+RE : P PB --> CHARGED X
+SQRT(S)/NUCLEON : 5020.0 GeV
+x: PT IN GEV
+y : V(2PC,SUB)
+x	xlow	xhigh	y	dy+	dy-	dy+	dy-	
+0.249556	0.2	0.3	0.025935	+0.002101	-0.002101	+0.002593	-0.002593
+0.394256	0.3	0.5	0.039392	+8.01E-4	-8.01E-4	+0.003939	-0.003939
+0.614499	0.5	0.75	0.052929	+7.11E-4	-7.11E-4	+0.005293	-0.005293
+0.864795	0.75	1.0	0.066001	+9.3E-4	-9.3E-4	+0.0066	-0.0066
+1.115304	1.0	1.25	0.079269	+0.001235	-0.001235	+0.007927	-0.007927
+1.365731	1.25	1.5	0.094069	+0.001646	-0.001646	+0.009407	-0.009407
+1.714992	1.5	2.0	0.107464	+0.001354	-0.001354	+0.010746	-0.010746
+2.216458	2.0	2.5	0.124119	+0.002758	-0.002758	+0.003724	-0.003724
+2.717322	2.5	3.0	0.113486	+0.006934	-0.006934	+0.003405	-0.003405
+3.375701	3.0	4.0	0.113814	+0.010393	-0.010393	+0.003414	-0.003414
+
